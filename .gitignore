@@ -1,0 +1,18 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Dataset
+severstal-steel-defect-detection/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# Secrets
+.env
+.env.*
